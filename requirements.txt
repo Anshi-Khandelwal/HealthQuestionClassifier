@@ -1,0 +1,8 @@
+gradio
+torch
+transformers
+datasets
+seqeval
+sentence-transformers
+scikit-learn
+evaluate
